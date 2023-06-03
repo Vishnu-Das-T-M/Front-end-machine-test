@@ -1,0 +1,55 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.start{
+	font-size: 2rem;font-weight:700;text-align: center;line-height: 0.75;
+}
+.p1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.p2{
+    line-height: 1.8666;
+    font-weight: 100;
+    color: #656566;
+}
+.cards{
+	border:none;
+}
+.set2{
+    margin-top: 15rem;
+}
+.rm{
+    border-radius: 0.4rem;
+    font-size: 14px;
+    font-weight: 500;
+    color: #656566;
+}
+.price{
+    margin-top: 8%;
+}
+
+.pack{
+
+    background: #4d1d85;
+    font-size: 30px;
+    font-weight: 700;
+    color: #FFFFFF
+}
+
+.cost{
+    color: #715691;
+}
+
+.buy{
+    background: #1befc5;
+    font-weight: 500;
+}
+
+.st{
+    font-size: small;
+    font-weight: 600;
+}
+

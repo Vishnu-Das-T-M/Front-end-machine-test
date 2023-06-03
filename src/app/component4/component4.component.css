@@ -1,0 +1,34 @@
+.logo{
+    font-weight: 600;
+    color: #fff;
+    font-size: 36px;
+    line-height: 0.75;
+}
+.container-fluid{
+    
+    background: #26064c;
+
+}
+input[type='text']{
+    background-color: #715691;
+    border-style: none;
+    border-radius:0.4em;
+}
+input[type='email']{
+    background-color: #715691;
+    border-style: none;
+    border-radius:0.4em;
+}
+.copyright{
+    color: #715691;
+    font-size: small;
+}
+::placeholder { 
+    color:#fff;
+  }
+
+textarea{
+    background-color: #715691;
+    border-radius:0.4em;
+    border: none;
+}  
